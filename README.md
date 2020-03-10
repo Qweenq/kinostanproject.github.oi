@@ -1,1 +1,1 @@
-# kinostanproject.guthub.oi
+# kinostanproject.github.oi
